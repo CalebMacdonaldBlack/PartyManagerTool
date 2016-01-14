@@ -1,0 +1,7 @@
+main: com.gigabytedx.Main
+version: 1.0
+name: PluginName
+
+commands:
+  getpartytool:
+    description: get tool for adding players to your party
